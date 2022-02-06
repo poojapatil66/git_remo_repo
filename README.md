@@ -3,3 +3,4 @@ change from the local repository
 change in repo
 change from remote repo
 change to local 
+clone repository
